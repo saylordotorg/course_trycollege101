@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Try College 101"
+course_description: "An introduction to the basic academic, professional, and personal skills you will need to be successful in college."
+next: ../Unit12
+previous: ../Unit10
+---
 **Unit 11: Managing Your Health and Stress** <span id="11"></span> 
 *You may be aware that poor health can be a major cause of stress, but
 did you know that prolonged stress can also cause bad health? Especially

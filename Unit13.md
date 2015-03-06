@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Try College 101"
+course_description: "An introduction to the basic academic, professional, and personal skills you will need to be successful in college."
+next: ../../.../
+previous: ../Unit12
+---
 **Unit 13: Your Career After College** <span id="13"></span> 
 *The time to think about what you will do after college is now! You may
 have already given this considerable thought in Unit 1, but the final

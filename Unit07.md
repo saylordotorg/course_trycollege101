@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Try College 101"
+course_description: "An introduction to the basic academic, professional, and personal skills you will need to be successful in college."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Academic Writing and Research in College** <span
 id="7"></span> 
 *This unit addresses a very important topic: college-level writing.

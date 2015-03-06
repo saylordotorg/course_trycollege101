@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Try College 101"
+course_description: "An introduction to the basic academic, professional, and personal skills you will need to be successful in college."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Learning Styles and Learning Processes** <span id="5"></span> 
 *This unit focuses on the higher-level concepts of critical thinking and
 creative thinking, which are major components of college-level learning.

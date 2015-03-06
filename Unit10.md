@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Try College 101"
+course_description: "An introduction to the basic academic, professional, and personal skills you will need to be successful in college."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Interacting with Instructors and Classes** <span
 id="10"></span> 
 *This unit focuses on how to engage in the learning process through

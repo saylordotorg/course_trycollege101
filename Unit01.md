@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Try College 101"
+course_description: "An introduction to the basic academic, professional, and personal skills you will need to be successful in college."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Building and Working Towards Educational Goals** <span
 id="1"></span> 
 *The first unit of this course will help you clarify your individual

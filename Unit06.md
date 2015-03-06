@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Try College 101"
+course_description: "An introduction to the basic academic, professional, and personal skills you will need to be successful in college."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Listen, Take Notes, Read, and Study** <span id="6"></span> 
 *The five most basic building blocks of learning in college – and
 elsewhere – are reading, writing, listening, taking notes, and

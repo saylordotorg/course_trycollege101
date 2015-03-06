@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Try College 101"
+course_description: "An introduction to the basic academic, professional, and personal skills you will need to be successful in college."
+next: ../Unit13
+previous: ../Unit11
+---
 **Unit 12: The Social World of College** <span id="12"></span> 
 *This unit focuses on the social dimension of college. The social
 aspects of college enhance the learning that goes on inside the

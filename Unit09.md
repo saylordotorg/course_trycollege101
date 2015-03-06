@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Try College 101"
+course_description: "An introduction to the basic academic, professional, and personal skills you will need to be successful in college."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Be Ready For Tests and Test Anxiety** <span id="9"></span> 
 *This unit will present you with strategies you can use to study for
 tests, reduce or eliminate stress related to test-taking – commonly

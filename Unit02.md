@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Try College 101"
+course_description: "An introduction to the basic academic, professional, and personal skills you will need to be successful in college."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Creating a Physical and Mental Space for Studying** <span
 id="2"></span> 
 *This unit explores ways you can organize your space in order to create

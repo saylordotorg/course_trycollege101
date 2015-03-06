@@ -1,4 +1,11 @@
-Course Syllabus for " Try College 101"
+---
+layout: default
+title: "Try College 101"
+course_description: "An introduction to the basic academic, professional, and personal skills you will need to be successful in college."
+next: ../Unit01
+previous: ../../../
+---
+Course Syllabus for "Try College 101"
 --------------------------------------
 
 This course is designed to equip you with the basic academic,

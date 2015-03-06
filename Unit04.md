@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Try College 101"
+course_description: "An introduction to the basic academic, professional, and personal skills you will need to be successful in college."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Reading to Learn** <span id="4"></span> 
 *At first glance, you may think that the topic of this unit – reading –
 is unnecessary. You may think you already know everything there is to

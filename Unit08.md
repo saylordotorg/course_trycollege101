@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Try College 101"
+course_description: "An introduction to the basic academic, professional, and personal skills you will need to be successful in college."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Using and Improving Your Memory Skills** <span id="8"></span> 
 *This short unit focuses exclusively on improving your memory skills.
 Memorization is an interesting problem for the college student because,

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Try College 101"
+course_description: "An introduction to the basic academic, professional, and personal skills you will need to be successful in college."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Create an Effective Time Management Plan** <span
 id="3"></span> 
 *This unit will help you create a reasonable time-management plan that
