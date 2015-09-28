@@ -210,3 +210,4 @@ main ideas to other work you are doing as soon as possible.
 - [Unit 11](https://legacy.saylor.org/trycollege101/Unit11/)
 - [Unit 12](https://legacy.saylor.org/trycollege101/Unit12/)
 - [Unit 13](https://legacy.saylor.org/trycollege101/Unit13/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ELECTIVES/TryCollege101/TryCollege101-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ELECTIVES/TryCollege101/TryCollege101-FinalExam-Answers.html)
