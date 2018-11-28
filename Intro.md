@@ -136,7 +136,7 @@ free, online materials. However, the course makes primary use of the
 following materials:
 
 -   [*College
-    Success*](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Success*](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
 -   The Purdue University [Online Writing
     Lab](http://owl.english.purdue.edu/owl/section/1/) (OWL)
 
@@ -192,7 +192,7 @@ main ideas to other work you are doing as soon as possible.
     as you progress through each resource box below.  
       
      Reading: *[College
-    Success](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)*
+    Success](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)*
     (PDF)  
       
      Terms of Use: This text was adapted by The Saylor Foundation under

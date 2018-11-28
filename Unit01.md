@@ -52,7 +52,7 @@ id="1.1"></span> 
 -   **Reading: *College Success*: “Chapter 1: You and Your College
     Experience”**
     Link: *College Success*: [“Chapter 1: You and Your College
-    Experience”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Experience”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Complete the first two sections of Chapter 1 entitled
@@ -74,7 +74,7 @@ id="1.1"></span> 
 -   **Reading: *College Success*: “Chapter 1: You and Your College
     Experience”**
     Link: *College Success*: [“Chapter 1: You and Your College
-    Experience”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Experience”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read the sections entitled “How to Get There” and
@@ -98,7 +98,7 @@ id="1.1"></span> 
 -   **Reading: *College Success*: “Chapter 1, Section 1.1: Who Are You,
     Really?”**
     Link: *College Success*: [“Chapter 1, Section 1.1: Who Are You,
-    Really?”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Really?”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read this section. First, you will complete two
@@ -122,7 +122,7 @@ id="1.1"></span> 
     Organized, and on Track”**
     Link: *College Success*: [“Chapter 2: Staying Motivated, Organized,
     and on
-    Track”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Track”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: As you read through Chapter 2, you will first learn
@@ -145,7 +145,7 @@ id="1.1"></span> 
 -   **Lecture: The Saylor Foundation: Becky Samitore-Durand’s “Goal
     Setting”**
     Link: The Saylor Foundation: Becky Samitore-Durand’s [“Goal
-    Setting”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/TRYCOLLEGE-1.3.4.pdf) (PDF)  
+    Setting”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/TRYCOLLEGE-1.3.4.pdf) (PDF)  
         
      Instructions: Read this PowerPoint presentation. With each slide,
     consider the information you have just read in the textbook to
@@ -161,7 +161,7 @@ id="1.1"></span> 
 -   **Activity: The Saylor Foundation: Becky Samitore-Durand’s “Goal
     Setting Exercise”**
     Link: The Saylor Foundation: Becky Samitore-Durand’s [“Goal Setting
-    Exercise”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/TRYCOLLEGE-1.3.4-ASSIGNMENT.pdf) (PDF)  
+    Exercise”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/TRYCOLLEGE-1.3.4-ASSIGNMENT.pdf) (PDF)  
         
      Instructions: Review this handout and work through the exercises to
     help you determine and articulate your own goals. Take some time to
@@ -173,7 +173,7 @@ id="1.1"></span> 
 -   **Assessment: The Saylor Foundation’s “SMART Goals: Getting
     Started”**
     Link: The Saylor Foundation’s [“SMART Goals: Getting
-    Started”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/TRYCOLLEGE101-Unit1Assessment-FINAL.pdf)
+    Started”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/TRYCOLLEGE101-Unit1Assessment-FINAL.pdf)
     (PDF)  
         
      Instructions: SMART goals are specific, measurable, achievable,

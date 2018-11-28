@@ -44,7 +44,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *College Success*: “Chapter 12: Taking Control of Your
     Future”**
     Link: *College Success*: [“Take Control of Your
-    Future”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Future”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read the Chapter 12 introduction as well as sections
@@ -67,7 +67,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *College Success*: “Chapter 12, Section 12.3: Choosing
     Your Major”**
     Link: *College Success*: [“Chapter 12, Section 12.3: Choosing Your
-    Major”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Major”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read this section to learn about the significance of
@@ -93,7 +93,7 @@ Upon successful completion of this unit, you will be able to:
     Right Stuff”**
     Link: *College Success*: [“Chapter 12, Section 12.4: Getting the
     Right
-    Stuff”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Stuff”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read this section to explore the benefits of a
@@ -146,7 +146,7 @@ your notebook.*
     Development Starts Now”**
     Link: *College Success*: [“Chapter 12, Section 12.5: Career
     Development Starts
-    Now”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Now”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read this section in its entirety. This short section
@@ -169,7 +169,7 @@ your notebook.*
     Cover Letters”**
     Link: *College Success*: [“Chapter 12, Section 12.7: Resumes and
     Cover
-    Letters”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Letters”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read this section to get a good picture of the
@@ -290,7 +290,7 @@ cover letter that might go unnoticed.*
     Interviewing for Success”**
     Link: *College Success*: [“Chapter 12, Section 12.8: Interviewing
     for
-    Success”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Success”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read this section to learn tips on how to conduct
@@ -372,7 +372,7 @@ id="13.7"></span> 
     VisualCV, Inc.’s “Create Your VisualCV”**
     Link: Washington State Board of Community and Technical Colleges:
     Becky Samitore-Durand’s “[Resume/CV and Cover
-    Letter](https://resources.saylor.org/archived/wp-content/uploads/2012/01/TRYCOLLEGE-10.7.pdf)”
+    Letter](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/TRYCOLLEGE-10.7.pdf)”
     (PDF) and VisualCV, Inc.’s “[Create Your
     VisualCV](http://www.visualcv.com/)” (HTML)  
         
@@ -396,7 +396,7 @@ id="13.7"></span> 
 **Unit 13 Assessment** <span id="13.8"></span> 
 -   **Assessment: The Saylor Foundation’s “Your Career Plan”**
     Link: The Saylor Foundation’s [“Your Career
-    Plan”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/TRYCOLLEGE101-Unit13Assessment-FINAL.pdf)
+    Plan”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/TRYCOLLEGE101-Unit13Assessment-FINAL.pdf)
     (PDF)  
         
      Instructions: Now that you have completed the exercises and

@@ -64,7 +64,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *College Success*: “Chapter 3, Section 3.1: Types of
     Thinking”**
     Link: *College Success*: [“Chapter 3, Section 1: Types of
-    Thinking”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Thinking”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: In the Chapter 3 introduction, complete the
@@ -108,7 +108,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *College Success*: “Chapter 3: Section 3.2: It’s
     Critical”**
     Link: *College Success*: [“Chapter 3: Section 3.2: It’s
-    Critical”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Critical”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read this section. <span
@@ -131,7 +131,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *College Success*: “Chapter 3, Section 3.3: Searching for
     Aha!”**
     Link: *College Success*: [“Chapter 3: Section 3.3: Searching for
-    Aha!”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Aha!”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read this section. Pay special attention to the
@@ -152,7 +152,7 @@ Upon successful completion of this unit, you will be able to:
     Solving and Decision Making”**
     Link: *College Success*: [“Chapter 3, Section 3.4: Problem Solving
     and Decision
-    Making”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Making”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read this section. This short reading will give you
@@ -213,7 +213,7 @@ id="5.6"></span> 
     Style Activity”**
     Link: The Saylor Foundation: Becky Samitore-Durand’s [“Learning
     Style
-    Activity”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Try-College-Subunit-5.6-Learning-Style-Activity.pdf) (PDF)  
+    Activity”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Try-College-Subunit-5.6-Learning-Style-Activity.pdf) (PDF)  
         
      Instructions: Read and answer the questions in this activity based
     on what you have learned from your textbook readings and the VARK

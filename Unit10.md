@@ -60,7 +60,7 @@ id="10.1"></span> 
     Instructors and Classes”**
     Link: *College Success*: [“Chapter 7: Interacting with Instructors
     and
-    Classes”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/TC101-CH-4.5.pdf) (PDF)  
+    Classes”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/TC101-CH-4.5.pdf) (PDF)  
         
      Instructions: Complete the two self-assessments in Chapter 7,
     titled “Where Are You Now?” and “Where Do You Want to Go?” These
@@ -106,7 +106,7 @@ Reading** <span id="10.3"></span> 
 -   **Reading: *College Success*: “Chapter 7, Section 7.2: Participating
     in Class”**
     Link: *College Success*: [“Chapter 7, Section 7.2: Participating in
-    Class”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/TC101-CH-4.5.pdf) (PDF)  
+    Class”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/TC101-CH-4.5.pdf) (PDF)  
         
      Instructions: Read the introductory text and the text underneath
     the headings titled “Guidelines for Participating in Classes,”
@@ -129,7 +129,7 @@ Instructors** <span id="10.4"></span> 
     with Instructors”**
     Link: *College Success*: [“Chapter 7, Section 7.3: Communicating
     with
-    Instructors”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/TC101-CH-4.5.pdf) (PDF)  
+    Instructors”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/TC101-CH-4.5.pdf) (PDF)  
         
      Instructions: Read this entire section. Be sure to complete the
     checkpoint exercises at the end of the reading.  
@@ -150,7 +150,7 @@ Class Presentations** <span id="10.5"></span> 
     Speaking and Class Presentations”**
     Link: *College Success*: [“Chapter 7, Section 7.4: Public Speaking
     and Class
-    Presentations”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Presentations”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read this entire section. Be sureto complete the
@@ -170,7 +170,7 @@ Class Presentations** <span id="10.5"></span> 
 -   **Activity: *College Success*: “Chapter 7, Section 7.5: Chapter
     Activities”**
     Link: *College Success*: [“Chapter 7, Section 7.5: Chapter
-    Activities”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/TC101-CH-4.5.pdf) (PDF)  
+    Activities”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/TC101-CH-4.5.pdf) (PDF)  
         
      Instructions: Complete all the chapter activities in this section,
     including “Chapter Review,” “Outside the Book,” and “Make an Action
@@ -187,7 +187,7 @@ Class Presentations** <span id="10.5"></span> 
 -   **Activity: *College Success*: “Chapter 7, Section 7.5: Chapter
     Activities”**
     Link: *College Success*: [“Chapter 7, Section 7.5: Chapter
-    Activities”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/TC101-CH-4.5.pdf) (PDF)  
+    Activities”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/TC101-CH-4.5.pdf) (PDF)  
         
      Instructions: Complete all the chapter activities in this section,
     including “Chapter Review,” “Outside the Book,” and “Make an Action
@@ -204,7 +204,7 @@ Class Presentations** <span id="10.5"></span> 
 **Unit 10 Assessment** <span id="10.11"></span> 
 -   **Reading: The Saylor Foundation’s “Find a Mentor”**
     Link: The Saylor Foundation’s [“Find a
-    Mentor”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/TRYCOLLEGE101-Unit10Assessment-FINAL.pdf)
+    Mentor”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/TRYCOLLEGE101-Unit10Assessment-FINAL.pdf)
     (PDF)  
         
      Instructions: Read this article about why and how to choose a

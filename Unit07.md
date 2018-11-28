@@ -76,7 +76,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *College Success*: “Chapter 8: The Importance of
     Writing”**
     Link: *College Success*: [“Chapter 8: The Importance of
-    Writing”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/TC101-CH-8.pdf) (PDF)  
+    Writing”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/TC101-CH-8.pdf) (PDF)  
         
      Instructions: Complete this chapter’s self-assessments, titled
     “Where Are You Now?” and “Where Do You Want to Go?”. Then, read the
@@ -99,7 +99,7 @@ id="7.1.1"></span> 
     Different about College Writing?”**
     Link: *College Success*: [“Chapter 8, Section 8.1: What’s Different
     about College
-    Writing?”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Writing?”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read the first part of Section 8.1, focusing on the
@@ -151,7 +151,7 @@ id="7.1.2"></span> 
     Different about College Writing?”**
     Link: *College Success*: [“Chapter 8, Section 8.1: What’s Different
     about College
-    Writing?”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Writing?”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read the second part of Section 8.1, comprising the
@@ -173,7 +173,7 @@ id="7.1.2"></span> 
 
 -   **Activity: The Saylor Foundation’s “Evaluate Writing Prompts”**
     Link: The Saylor Foundation’s [“Evaluate Writing
-    Prompts”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/TryCollege101-Unit-6.2.3-Evaluate-Writing-Prompts.pdf) (PDF)  
+    Prompts”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/TryCollege101-Unit-6.2.3-Evaluate-Writing-Prompts.pdf) (PDF)  
         
      Instructions: Complete this activity in which you will practice the
     skills you have learned in Subunit 7.2 by evaluating three different
@@ -191,7 +191,7 @@ id="7.3.1"></span> 
     Become a Better Writer”**
     Link: *College Success*: [“Chapter 8, Section 8.2: How Can I Become
     a Better
-    Writer”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Writer”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read the Section 8.2 introduction and the text under
@@ -232,14 +232,14 @@ id="7.3.1"></span> 
 -   **Assessment: The Saylor Foundation’s “Evaluate an Introductory
     Paragraph”**
     Link: The Saylor Foundation’s [“Evaluate an Introductory
-    Paragraph”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Try-College101-Subunit-6.3.1.6-Evaluate-an-Introductory-Paragraph.pdf) (PDF)  
+    Paragraph”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Try-College101-Subunit-6.3.1.6-Evaluate-an-Introductory-Paragraph.pdf) (PDF)  
         
      Instructions: Follow these instructions to evaluate an introductory
     paragraph written by a college student. After you have evaluated the
     paragraph, you will rewrite it to improve it. Once you complete this
     assignment, check your answers against the Saylor Foundation’s
     [“Guide to Responding to the Evaluate an Introductory Paragraph
-    Assignment.”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Try-College101-Subunit-6.3.1.6-Guide-to-Responding-to-Evaluate-an-Introductory-Paragraph.pdf)  
+    Assignment.”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Try-College101-Subunit-6.3.1.6-Guide-to-Responding-to-Evaluate-an-Introductory-Paragraph.pdf)  
         
      Completing this assignment should take you approximately 1 hour.  
         
@@ -251,7 +251,7 @@ id="7.3.1"></span> 
     Become a Better Writer?”**
     Link: *College Success*: [“Chapter 8, Section 8.2: How Can I Become
     a Better
-    Writer?”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/TC101-CH-8.2.pdf) (PDF)  
+    Writer?”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/TC101-CH-8.2.pdf) (PDF)  
         
      Instructions: In Section 8.2, read the text under the headings
     titled “The Writing Process,” “How Can I Make the Process Work for
@@ -296,7 +296,7 @@ id="7.3.3"></span> 
 -   **Reading: The Saylor Foundation: Becky Samitore-Durand’s “Writing
     Resources”**
     Link: The Saylor Foundation: Becky Samitore-Durand’s [“Writing
-    Resources”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/TRYCOLLEGE-5.3.2.5.pdf) (PDF)  
+    Resources”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/TRYCOLLEGE-5.3.2.5.pdf) (PDF)  
         
      Instructions: You have already visited Purdue University’s Online
     Writing Lab and explored some of the resources there. There are many
@@ -316,7 +316,7 @@ id="7.3.3"></span> 
     Become a Better Writer?”**
     Link: *College Success*: [“Chapter 8, Section 8.2: How Can I Become
     a Better
-    Writer?”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Writer?”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: In Section 8.2 of the textbook, read the text below
@@ -621,7 +621,7 @@ summary, paraphrase, and quotation in the future.*
     “Evaluation Skills Activity”**
     Link: The Saylor Foundation: <span style="font-size: 12px;">Becky
     Samitore-Durand’s </span>[“Writing
-    Activity”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Try-College-Subunit-6.6-Writing-Activity.pdf)<span
+    Activity”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Try-College-Subunit-6.6-Writing-Activity.pdf)<span
     style="font-size: 12px;"> (PDF)  
         
      I</span>nstructions: After you have reviewed Jim Kapoun’s guide to
@@ -636,7 +636,7 @@ summary, paraphrase, and quotation in the future.*
 **Unit 7 Assessment** <span id="7.7"></span> 
 -   **Assessment: The Saylor Foundation’s “Put your Writing to Work”**
     Link: The Saylor Foundation’s [“Put your Writing to
-    Work”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/TRYCOLLEGE101-Unit7Assessment-FINAL.pdf)
+    Work”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/TRYCOLLEGE101-Unit7Assessment-FINAL.pdf)
     (PDF)  
         
      Instructions: Writing is a critical life skill, and your mastery of

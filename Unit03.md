@@ -73,7 +73,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *College Success*: “Chapter 2, Section 2.3: Organizing
     Your Time”**
     Link: *College Success*: [“Chapter 2, Section 2.3: Organizing Your
-    Time”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Time”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read the introductory text and the text under the
@@ -137,7 +137,7 @@ notebook.*
 -   **Reading: *College Success*: “Chapter 2, Section 2.3: Organizing
     Your Time”**
     Link: *College Success*: [“Chapter 2, Section 2.3: Organizing Your
-    Time”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Time”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read the text from “Time Management” through “Time
@@ -177,7 +177,7 @@ id="3.2.1"></span> 
     Management and Scheduling Strategies”**
     Link: The Saylor Foundation: Becky Samitore-Durand’s [“Time
     Management and Scheduling
-    Strategies”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/TRYCOLLEGE-3.2.2.pdf) (PDF)  
+    Strategies”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/TRYCOLLEGE-3.2.2.pdf) (PDF)  
         
      Instructions: Read through this PowerPoint presentation. Each slide
     reviews and expands upon information covered in material you have
@@ -208,7 +208,7 @@ id="3.2.1"></span> 
 -   **Reading: *College Success*: “Chapter 2: Section 2.3: Organizing
     Your Time”**
     Link: *College Success*: [“Chapter 2: Section 2.3: Organizing Your
-    Time”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Time”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: As you read through the section below the “Battling
@@ -258,7 +258,7 @@ topic and writing in your notebook.*
 -   **Reading: *College Success*: “Chapter 2: Section 2.3: Organizing
     Your Time”**
     Link: *College Success*: [“Chapter 2: Section 2.3: Organizing Your
-    Time”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Time”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read the section below the “Calendar Planners and
@@ -292,7 +292,7 @@ and to stay organized.*
 -   **Reading: *College Success*: “Chapter 2, Section 2.3: Organizing
     Your Time”**
     Link: *College Success*: [“Chapter 2, Section 2.3: Organizing Your
-    Time”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Time”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read the section entitled “Time Management Tips for
@@ -311,7 +311,7 @@ and to stay organized.*
 -   **Reading: *College Success*: “Chapter 2, Section 2.3: Organizing
     Your Time”**
     Link: *College Success*: [“Chapter 2, Section 2.3: Organizing Your
-    Time”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Time”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read the section below the “Time Management Tips for
@@ -330,7 +330,7 @@ and to stay organized.*
 -   **Reading: College Success: “Chapter 2, Section 2.3: Organizing Your
     Time”**
     Link: *College Success*: [“Chapter 2, Section 2.3: Organizing Your
-    Time”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Time”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read the section under the “Time Management Tips for
@@ -350,7 +350,7 @@ id="3.6"></span> 
     Management Activity”**
     Link: The Saylor Foundation: Becky Samitore-Durand’s [“Time
     Management
-    Activity”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/TryCollege-Subunit-3.6-Time-Management-Activity.pdf) (PDF)  
+    Activity”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/TryCollege-Subunit-3.6-Time-Management-Activity.pdf) (PDF)  
         
      Instructions: If you have not yet done so, now is time to pull out
     your academic planner or calendar and put it to work. Based on what

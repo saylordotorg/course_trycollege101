@@ -65,7 +65,7 @@ Review/Apply** <span id="6.1"></span> 
     Yourself Up for Success”**
     Link: *College Success*: [“Chapter 4: Section 4.1: Setting Yourself
     Up for
-    Success”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Success”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read the Chapter 4 introductory text, as well as
@@ -86,7 +86,7 @@ Review/Apply** <span id="6.1"></span> 
 -   **Reading: *College Success*: “Chapter 4, Section 4.2: Are You Ready
     for Class?”**
     Link: *College Success*: [“Chapter 4, Section 4.2: Are You Ready for
-    Class?”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Class?”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read this section. Consider writing your answers to
@@ -111,7 +111,7 @@ id="6.3"></span> 
 -   **Reading: *College Success*: “Chapter 4, Section 4.3: Are You
     Really Listening?”**
     Link: *College Success*: [“Chapter 4, Section 4.3: Are You Really
-    Listening?”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Listening?”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: In Section 4.3, read from the beginning of the
@@ -135,7 +135,7 @@ id="6.3"></span> 
 -   **Reading: *College Success*: “Chapter 4, Section 4.3: Are You
     Really Listening?”**
     Link: *College Success*: [“Chapter 4, Section 4.3: Are You Really
-    Listening?”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Listening?”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Pick up the Section 4.3 reading where you left off in
@@ -168,7 +168,7 @@ id="6.3"></span> 
 **6.5 Capture Information Using Note Taking** <span id="6.5"></span> 
 -   **Reading: *College Success*: “Chapter 4, Section 4.4: Got Notes?”**
     Link: *College Success*: [“Chapter 4, Section 5.4: Got
-    Notes?”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
+    Notes?”](https://resources.saylor.org/wwwresources/archived/site/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read Section 4.4 to learn about the reasons why you
@@ -263,7 +263,7 @@ your notebook.*
 **6.6 Practice Your Note-Taking Skills Now** <span id="6.6"></span> 
 *Link: Washington State Board of Community and Technical Colleges: Becky
 Samitore-Durand’s [“Activity
-Instructions”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Try-College-Subunit-7.6-Activity-Instructions.pdf) (PDF)*
+Instructions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Try-College-Subunit-7.6-Activity-Instructions.pdf) (PDF)*
 
 -   **Web Media: YouTube: Bill Nye’s “Bill Nye the Science Guy on Static
     Electricity”**
