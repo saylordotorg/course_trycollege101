@@ -43,7 +43,7 @@ id="12.1"></span> 
 -   **Reading: College Success: “Chapter 9: The Social World of
     College”**
     Link: *College Success*: [“Chapter 9: The Social World of
-    College”](http://www.saylor.org/site/wp-content/uploads/2012/11/TC101-CH-4.5.pdf) (PDF)  
+    College”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/TC101-CH-4.5.pdf) (PDF)  
         
      Instructions: Complete the first two sections of Chapter 9, titled
     “Where Are You Now?” and “Where Do You Want to Go?” which are
@@ -68,7 +68,7 @@ id="12.2"></span> 
     with Others”**
     Link: *College Success*: [“Chapter 9, Section 9.1: Getting Along
     with
-    Others”](http://www.saylor.org/site/wp-content/uploads/2012/11/TC101-CH-4.5.pdf) (PDF)  
+    Others”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/TC101-CH-4.5.pdf) (PDF)  
         
      Instructions: Read this entire section. Be sure to complete the
     checkpoint exercises at the end of the reading.  
@@ -87,7 +87,7 @@ with Diversity** <span id="12.3"></span> 
 -   **Reading: *College Success*: “Chapter 9, Section 9.2: Living with
     Diversity”**
     Link: *College Success*: [“Chapter 9, Section 9.2: Living with
-    Diversity”](http://www.saylor.org/site/wp-content/uploads/2012/11/TC101-CH-4.5.pdf) (PDF)  
+    Diversity”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/TC101-CH-4.5.pdf) (PDF)  
         
      Instructions: Read this entire section. Attempt the “Challenge Your
     Thinking” and “Journal Entry” activities in the text.  
@@ -106,7 +106,7 @@ id="12.4"></span> 
 -   **Reading: College Success: “Chapter 9, Section 9.3: Campus
     Groups”**
     Link: *College Success*: [“Chapter 9, Section 9.3: Campus
-    Groups”](http://www.saylor.org/site/wp-content/uploads/2012/11/TC101-CH-4.5.pdf) (PDF)  
+    Groups”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/TC101-CH-4.5.pdf) (PDF)  
         
      Instructions: Read this entire section. Attempt the “Explore Your
     Interests for College Clubs and Organizations” activity.  
@@ -125,7 +125,7 @@ id="12.5"></span> 
 -   **Activity: *College Success*: “Chapter 9, Section 9.4: Chapter
     Activities”**
     Link: *College Success*: [“Chapter 9, Section 9.4: Chapter
-    Activities”](http://www.saylor.org/site/wp-content/uploads/2012/11/TC101-CH-4.5.pdf) (PDF)  
+    Activities”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/TC101-CH-4.5.pdf) (PDF)  
         
      Instructions: Complete all the chapter activities, including the
     “Chapter Review,” “Outside the Book,” and “Make an Action List”

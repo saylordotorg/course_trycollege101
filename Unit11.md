@@ -66,7 +66,7 @@ Upon successful completion of this unit, you will be able to:
     Worlds of Different Students”**
     Link: *College Success*: [“Chapter 1, Section 1.2: Different Worlds
     of Different
-    Students”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Students”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read this section in its entirety. College students
@@ -94,7 +94,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *College Success*: “Chapter 10: Taking Control of Your
     Health”**
     Link: *College Success*: [“Chapter 10: Taking Control of Your
-    Health”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Health”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: In Chapter 10, complete the “Where Are You Now?” and
@@ -117,7 +117,7 @@ Upon successful completion of this unit, you will be able to:
     and Weight Control”**
     Link: *College Success*: [“Chapter 10, Section 1: Nutrition and
     Weight
-    Control”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Control”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read this section in its entirety. <span
@@ -138,7 +138,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *College Success*: “Chapter 10, Section 10.2: Activity
     and Exercise”**
     Link: *College Success*: [“Chapter 10, Section 2: Activity and
-    Exercise”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Exercise”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read this section in its entirety and complete the
@@ -160,7 +160,7 @@ Upon successful completion of this unit, you will be able to:
 **11.2.3 Getting Enough Sleep** <span id="11.2.3"></span> 
 -   **Reading: *College Success*: “Chapter 10, Section 10.3: Sleep”**
     Link: *College Success*: [“Chapter 10, Section 10.3:
-    Sleep”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Sleep”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read this section to learn the basics of good sleep.
@@ -182,7 +182,7 @@ Upon successful completion of this unit, you will be able to:
     Use and Abuse”**
     Link: *College Success*: [“Chapter 10, Section 10.4: Substance Use
     and
-    Abuse”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Abuse”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read this section in its entirety. Make sure to
@@ -224,7 +224,7 @@ Upon successful completion of this unit, you will be able to:
 **11.4 What Causes Stress?** <span id="11.4"></span> 
 -   **Reading: *College Success*: “Chapter 10, Section 5: Stress”**
     Link: College Success: [“Chapter 10, Section 10.5:
-    Stress”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Stress”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read the introductory text to this section, complete
@@ -265,7 +265,7 @@ notebook.*
 **11.5 The Effects of Stress** <span id="11.5"></span> 
 -   **Reading: *College Success*: “Chapter 10, Section 10.5: Stress”**
     Link: *College Success*: [“Chapter 10, Section 5:
-    Stress”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Stress”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: In this section, read the text below the heading
@@ -303,7 +303,7 @@ that you have experienced in your life?*
 **11.6 Responses to Stress** <span id="11.6"></span> 
 -   **Reading: *College Success*: “Chapter 10, Section 10.5: Stress”**
     Link: *College Success*: [“Chapter 10, Section 10.5:
-    Stress”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Stress”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: In this section, please read the text below the
@@ -324,7 +324,7 @@ that you have experienced in your life?*
     Management and Relaxation Techniques”**
     Link: The Saylor Foundation: Becky Samitore-Durand’s [“Stress
     Management and Relaxation
-    Techniques”](http://www.saylor.org/site/wp-content/uploads/2012/01/TRYCOLLEGE-9.6.2.pdf) (PDF)  
+    Techniques”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/TRYCOLLEGE-9.6.2.pdf) (PDF)  
       
      Instructions: Read through this PowerPoint presentation to review
     additional positive techniques to manage stress. It is vital that
@@ -339,7 +339,7 @@ that you have experienced in your life?*
     Health and Happiness”**
     Link: *College Success*: [“Chapter 10, Section 10.6: Emotional
     Health and
-    Happiness”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Happiness”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read this section up until the “Relationships”
@@ -410,7 +410,7 @@ Success: Emotional Health.”*
     Health and Happiness”**
     Link: *College Success*: [“Chapter 10, Section 10.6: Emotional
     Health and
-    Happiness”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Happiness”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: In this section, please read the text beneath the
@@ -429,7 +429,7 @@ Success: Emotional Health.”*
 -   **Reading: *College Success*: “Chapter 10, Section 10.7: Sexual
     Health”**
     Link: *College Success*: [“Chapter 10, Section 7: Sexual
-    Health”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Health”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read this section in its entirety. Make sure to
@@ -525,7 +525,7 @@ conversation.**
 -   **Activity: The Saylor Foundation: Becky Samitore-Durand’s “Week 9
     Activity”**
     Link: The Saylor Foundation: Becky Samitore-Durand’s [“Week 9
-    Activity”](http://www.saylor.org/site/wp-content/uploads/2012/05/Try-College-Subunit-10.10-Week-9-Activity.pdf) (PDF)  
+    Activity”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Try-College-Subunit-10.10-Week-9-Activity.pdf) (PDF)  
         
      Instructions: Using your results from the “Oxygen Plan Stress
     Test,” which you completed in the activity above, answer the

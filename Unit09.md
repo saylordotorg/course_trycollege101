@@ -61,7 +61,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *College Success*: “Chapter 6: Preparing for and Taking
     Tests”**
     Link: *College Success*: [“Chapter 6: Preparing for and Taking
-    Tests”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Tests”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: In Chapter 6 of the textbook, begin by filling out
@@ -103,7 +103,7 @@ above. Pay special attention to reviewing Figure 6.2 in the reading.*
     and How to Control It”**
     Link: *College Success*: [“Chapter 6, Section 6.1: Test Anxiety and
     How to Control
-    It”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    It”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: In this section, you will learn about the symptoms of
@@ -129,7 +129,7 @@ above. Pay special attention to reviewing Figure 6.2 in the reading.*
     Learn (Not Just for Tests)”**
     Link: *College Success*: [“Chapter 6, Section 6.2: Studying to Learn
     (Not Just for
-    Tests)”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Tests)”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: In this section, you will learn about different
@@ -171,7 +171,7 @@ above. Pay special attention to reviewing Figure 6.2 in the reading.*
 -   **Reading: *College Success*: “Chapter 6, Section 6.3: Taking
     Tests”**
     Link: *College Success*: [“Chapter 6, Section 3: Taking
-    Tests”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Tests”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read the section titled “Types of Tests” to learn
@@ -192,7 +192,7 @@ above. Pay special attention to reviewing Figure 6.2 in the reading.*
 -   **Reading: *College Success*: “Chapter 6, Section 6.3: Taking
     Tests”**
     Link: *College Success*: [“Chapter 6, Section 6.3: Taking
-    Tests”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Tests”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read the sections entitled “Tips for Taking Tests”
@@ -229,7 +229,7 @@ id="9.6"></span> 
     of the Q and A’s”**
     Link: *College Success*: [“Chapter 6, Section 6.4: The Secrets of
     the Q and
-    A’s”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    A’s”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: In this section, you will learn about the different
@@ -249,7 +249,7 @@ id="9.6"></span> 
 -   **Reading: *College Success*: “Chapter 6, Section 6.5: The Honest
     Truth”**
     Link: *College Success*: [“Chapter 6, Section 6.5: The Honest
-    Truth”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Truth”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read this section to review what constitutes academic
@@ -268,7 +268,7 @@ id="9.6"></span> 
 -   **Reading: *College Success*: “Chapter 6, Section 6.6: Using Test
     Results”**
     Link: *College Success*: [“Chapter 6, Section 6.6: Using Test
-    Results”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Results”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read this section in its entirety. Make sure to
@@ -287,7 +287,7 @@ id="9.6"></span> 
     Answer and Essay Test”**
     Link: The Saylor Foundation: Becky Samitore-Durand’s [“Short Answer
     and Essay
-    Test”](http://www.saylor.org/site/wp-content/uploads/2012/01/TRYCOLLEGE-8.9-ESSAYTEST.pdf) (PDF)  
+    Test”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/TRYCOLLEGE-8.9-ESSAYTEST.pdf) (PDF)  
         
      Instructions: Access this exam and practice responding to the
     different types of exam questions. Spend only 15-20 minutes
@@ -296,7 +296,7 @@ id="9.6"></span> 
     questions in one sitting in order to simulate the time allotted for
     each short answer and essay response in a typical college test. You
     can check your
-    answers [here](http://www.saylor.org/site/wp-content/uploads/2012/01/TRYCOLLEGE-8.9-ESSAYTESTANSWERKEY.pdf).  
+    answers [here](https://resources.saylor.org/archived/wp-content/uploads/2012/01/TRYCOLLEGE-8.9-ESSAYTESTANSWERKEY.pdf).  
         
      Completing this assessment and checking your answers should take
     approximately 1 hour.
@@ -305,7 +305,7 @@ id="9.6"></span> 
     “Matching and Fill in the Blank Test”**
     Link: The Saylor Foundation: Becky Samitore-Durand’s [“Matching and
     Fill in the Blank
-    Test”](http://www.saylor.org/site/wp-content/uploads/2012/01/TRYCOLLEGE-8.9-MATCHINGTEST.pdf) (PDF)  
+    Test”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/TRYCOLLEGE-8.9-MATCHINGTEST.pdf) (PDF)  
         
      Instructions: Access this exam to practice three matching and
     fill-in-the-blank exam questions. Spend only 5 minutes answering
@@ -314,7 +314,7 @@ id="9.6"></span> 
     one sitting in order to simulate the typical time allotted for each
     question in the matching section of a college test. You can check
     your answers
-    [here](http://www.saylor.org/site/wp-content/uploads/2012/01/TRYCOLLEGE-8.9-MATCHINGTESTANSWERKYE.pdf).  
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2012/01/TRYCOLLEGE-8.9-MATCHINGTESTANSWERKYE.pdf).  
         
      Completing this assessment and checking your answers should take
     approximately 1 hour.
@@ -323,7 +323,7 @@ id="9.6"></span> 
     “Multiple Choice and True/False Exam”**
     Link: The Saylor Foundation: Becky Samitore-Durand’s [“Multiple
     Choice and True/False
-    Exam”](http://www.saylor.org/site/wp-content/uploads/2012/01/TRYCOLLEGE-8.9-MCTEST.pdf) (PDF)  
+    Exam”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/TRYCOLLEGE-8.9-MCTEST.pdf) (PDF)  
         
      Instructions: Access this quiz to practice answering five multiple
     choice and true/false exam questions. Spend only 5 minutes answering
@@ -332,7 +332,7 @@ id="9.6"></span> 
     sitting in order to simulate the amount of time allotted for each
     question in the multiple choice or true/false section of a typical
     college test. You can check your answers
-    [here](http://www.saylor.org/site/wp-content/uploads/2012/01/TRYCOLLEGE-8.9-MCTESTANSWERKEY.pdf).  
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2012/01/TRYCOLLEGE-8.9-MCTESTANSWERKEY.pdf).  
         
      Completing this assessment and checking your answers should take
     approximately 1 hour.
