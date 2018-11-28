@@ -69,7 +69,7 @@ id="8.1.2"></span> 
     Course Materials”**
     Link: *College Success*: [“Chapter 4, Section 4.5: Remembering
     Course
-    Materials”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Materials”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: In Section 4.5, read the text underneath the headings
@@ -89,7 +89,7 @@ id="8.1.2"></span> 
 -   **Reading: *College Success*: “Chapter 4, Section 4.5: Remembering
     Course Materials”**
     Link: *College Success*: [“Chapter 4, Section 5: Remembering Course
-    Materials”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Materials”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: In Section 4.5, read the section titled “Using
@@ -194,7 +194,7 @@ id="8.2"></span> 
 -   **Activity: The Saylor Foundation: Becky Samitore-Durand’s “Memory
     Tests”**
     Link: The Saylor Foundation: Becky Samitore-Durand’s [“Memory
-    Tests”](http://www.saylor.org/site/wp-content/uploads/2012/01/TRYCOLLEGE-7.2.pdf) (PDF)  
+    Tests”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/TRYCOLLEGE-7.2.pdf) (PDF)  
         
      Instructions: Complete this activity based on your previous
     training on the Lumosity website and your textbook readings. Answer

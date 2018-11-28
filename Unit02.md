@@ -59,7 +59,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *College Success*: “Chapter 2, Section 2.2: Organizing
     Your Space”**
     Link: *College Success*: [“Chapter 2, Section 2.2: Organizing Your
-    Space”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Space”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read the introductory text under the “Learning
@@ -104,7 +104,7 @@ responding to the notebook prompt.*
 -   **Reading: *College Success*: “Chapter 2, Section 2.2: Organizing
     Your Space”**
     Link: *College Success*: [“Chapter 2, Section 2.2: Organizing Your
-    Space”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Space”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read the text under the heading “Use Space to Your
@@ -122,7 +122,7 @@ responding to the notebook prompt.*
 -   **Reading: *College Success*: “Chapter 2, Section 2.2: Organizing
     Your Space”**
     Link: *College Success*: [“Chapter 2, Section 2.2: Organizing Your
-    Space”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Space”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read the text under the heading titled “The
@@ -171,7 +171,7 @@ id="2.4"></span> 
 -   **Reading: *College Success*: “Chapter 2, Section 2.2: Organizing
     Your Space”**
     Link: *College Success*: [“Chapter 2, Section 2.2: Organizing Your
-    Space”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Space”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Heading titled “Family and Roommate Issues.” Make
@@ -209,7 +209,7 @@ may mean saying no to other activities.*
     “Organizing Your Space”**
     Link: The Saylor Foundation: Becky Samitore-Durand’s [“Organizing
     Your
-    Space”](http://www.saylor.org/site/wp-content/uploads/2012/01/TRYCOLLEGE-2.5.pdf) (PDF)  
+    Space”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/TRYCOLLEGE-2.5.pdf) (PDF)  
         
      Instructions: Identify two appropriate study spaces in your home,
     school, or community that meet the criteria set out by the readings.

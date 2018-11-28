@@ -59,7 +59,7 @@ Upon successful completion of this unit, you will be able to:
 id="4.1"></span> 
 -   **Reading: *College Success*: “Chapter 5: Reading to Learn”**
     Link: *College Success*: [“Chapter 5: Reading to
-    Learn”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Learn”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Complete the first two self-assessments of Chapter 5,
@@ -87,7 +87,7 @@ Complete the assessment to explore your future goals.*
     for the Big Leagues?”**
     Link: *College Success*: [“Chapter 5, Section 5.1: Are You Ready for
     the Big
-    Leagues?”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Leagues?”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read the chapter introduction and Section 5.1. This
@@ -110,7 +110,7 @@ Complete the assessment to explore your future goals.*
     Read to Learn?”**
     Link: *College Success*: [“Chapter 5, Section 5.2: How Do You Read
     to
-    Learn?”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Learn?”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read Section 5.2 in its entirety. This section
@@ -136,7 +136,7 @@ Complete the assessment to explore your future goals.*
     Practice, Part One”**
     Link: The Saylor Foundation’s [“Advanced Reading Skills Practice,
     Part
-    One”](http://www.saylor.org/site/wp-content/uploads/2012/02/TryCollege101-Subunit-4.3.1.2-Advanced-Reading-Practice-Part-1.pdf) (PDF)  
+    One”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/TryCollege101-Subunit-4.3.1.2-Advanced-Reading-Practice-Part-1.pdf) (PDF)  
         
      Instructions: Complete this activity, in which you will practice
     active reading and the Cornell Method on a text of your choice. Be
@@ -170,7 +170,7 @@ id="4.3.3"></span> 
     Practice, Part Two”**
     Link: The Saylor Foundation’s [“Advanced Reading Skills Practice,
     Part
-    Two”](http://www.saylor.org/site/wp-content/uploads/2012/02/TryCollege101-Subunit-4.3.6-Advanced-Reading-Practice-Part-2.pdf) (PDF)  
+    Two”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/TryCollege101-Subunit-4.3.6-Advanced-Reading-Practice-Part-2.pdf) (PDF)  
         
      Instructions: Complete this activity, in which you will continue
     working on the reading selection you chose in the first part of this
@@ -186,7 +186,7 @@ id="4.3.3"></span> 
     Special Texts”**
     Link: *College Success*: [“Chapter 5, Section 5.3: Dealing with
     Special
-    Texts”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Texts”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read this section. Reading in college is unique
@@ -207,7 +207,7 @@ id="4.3.3"></span> 
 -   **Reading: *College Success*: “Chapter 5, Section 5.4: Building Your
     Vocabulary”**
     Link: *College Success*: [“Chapter 5, Section 5.4: Building Your
-    Vocabulary”](http://www.saylor.org/site/textbooks/College%20Success.pdf)
+    Vocabulary”](https://resources.saylor.org/archived/textbooks/College%20Success.pdf)
     (PDF)  
         
      Instructions: Read this section. Learning new vocabulary is not all
